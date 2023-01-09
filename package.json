@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/chrome": "^0.0.200",
+    "@types/jquery": "^3.5.14"
+  }
+}
